@@ -11,7 +11,7 @@
     <img src="https://img.shields.io/github/last-commit/niklasstoffers/HainzDiscord" alt="last commit">
     <br>
     <img src="https://img.shields.io/github/languages/top/niklasstoffers/HainzDiscord?color=blueviolet" alt="top language">
-    <img src="https://tokei.rs/b1/github/niklasstoffers/Hainz?category=code" alt="lines of code">
+    <img src="https://sloc.xyz/github/niklasstoffers/HainzDiscord" alt="total lines">
     <a href="https://www.codefactor.io/repository/github/niklasstoffers/hainzdiscord"><img src="https://www.codefactor.io/repository/github/niklasstoffers/hainzdiscord/badge" alt="code quality" /></a>
     <hr>
 </p>
