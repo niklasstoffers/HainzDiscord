@@ -22,5 +22,5 @@ jobs:
               pull_number: context.issue.number,
               review_id: 1,
               event: 'APPROVE',
-              body: '![lgtm](https://github.com/niklasstoffers/HainzDiscord/blob/main/lgtm.gif)'
+              body: '![lgtm](https://github.com/niklasstoffers/HainzDiscord/blob/main/lgtm.gif?raw=true)'
             })
